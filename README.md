@@ -15,144 +15,22 @@ Currently, I am exploring the intersection between Embedded Systems and Artifici
 
 ---
 
-## 🔬 Research Interests
+## 📫 How to reach me
 
-### 📡 Wireless Sensing
+<p align="center">
+  <a href="https://www.linkedin.com/in/anh-%C4%91%E1%BB%A9c-ng%C3%B4-undefined-108aa0304/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-* Wi-Fi CSI-based Vital Sign Monitoring
-* Human Activity Recognition
-* Sleep Monitoring Systems
-* Contactless Healthcare Monitoring
+  <a href="https://github.com/ethanngo88">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-### 📶 Radar Sensing
+  <a href="ducanh280812@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 
-* TI mmWave Radar
-* Presence Detection
-* Motion Tracking
-* Respiratory & Heart Rate Monitoring
-
-### 🤖 Artificial Intelligence
-
-* PyTorch
-* Deep Learning
-* Signal Processing for AI
-* Time-Series Analysis
-
----
-
-## 💻 Technical Skills
-
-### Embedded Systems
-
-* STM32
-* ESP32
-* Nordic nRF52 / nRF54 Series
-* Zephyr RTOS
-* FreeRTOS
-* UART / SPI / I2C
-* PWM / Timers / Interrupts
-
-### Programming Languages
-
-* C
-* C++
-* Python
-* Java
-* Kotlin
-* SQL
-
-### AI & Data Science
-
-* PyTorch
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-
-### Web & Dashboard
-
-* HTML
-* CSS
-* JavaScript
-* WebSocket
-* Chart.js
-
-### Development Tools
-
-* Git
-* GitHub
-* VS Code
-* PlatformIO
-* Android Studio
-* STM32CubeIDE
-* nRF Connect SDK
-
----
-
-## 🚧 Featured Projects
-
-### 🫀 IoT Health Monitoring System
-
-ESP32-based real-time health monitoring platform featuring:
-
-* MAX30102 Sensor
-* OLED Display
-* Web Dashboard
-* WebSocket Communication
-* Heart Rate Analysis
-* HRV Metrics
-
----
-
-### 📡 Wi-Fi CSI Vital Sign Monitoring
-
-Research project focused on:
-
-* Respiratory Rate Estimation
-* Heart Rate Extraction
-* Wavelet-based Signal Processing
-* Sleep Monitoring
-
----
-
-### 🎯 mmWave Radar Human Monitoring
-
-Using TI mmWave Radar for:
-
-* Presence Detection
-* Motion Detection
-* Vital Signs Monitoring
-* Smart Home Applications
-
----
-
-## 📈 Currently Learning
-
-* Deep Learning with PyTorch
-* Neural Networks
-* Computer Vision
-* Edge AI
-* Embedded Machine Learning
-* Radar Signal Processing
-
----
-
-## 🏃 Beyond Engineering
-
-Outside of engineering, I enjoy endurance sports and long-distance running.
-
-Current Goal:
-
-🏅 HM Sub1H40 
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/ethanngo88
-* LinkedIn: https://www.linkedin.com/in/anh-%C4%91%E1%BB%A9c-ng%C3%B4-undefined-108aa0304/
-* Email: ducanh280812@gmail.com
-
----
-
-⭐ Always interested in Embedded Systems, AI, Wireless Sensing, and innovative engineering projects.
+  <a href="https://www.facebook.com/duc.anh.ngo.328997">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+</p>
