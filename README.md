@@ -34,3 +34,29 @@ Currently, I am exploring the intersection between Embedded Systems and Artifici
     <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+STM32 • ESP32 • Nordic nRF52/nRF54 • Zephyr RTOS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,ubuntu,postgres" />
+</p>
+
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
