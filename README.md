@@ -35,9 +35,7 @@ Currently exploring the intersection of:
   <a href="mailto:ducanh280812@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://www.facebook.com/duc.anh.ngo.328997">
     <img width="48" src="https://cdn.simpleicons.org/facebook" />
   </a>
@@ -59,10 +57,6 @@ Currently exploring the intersection of:
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
-<p align="center">
-  STM32 • ESP32 • Nordic nRF52 • Nordic nRF54 • Zephyr RTOS
-</p>
-
 ---
 
 ## 🤖 AI & Data Science
@@ -71,16 +65,12 @@ Currently exploring the intersection of:
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-<p align="center">
-  Deep Learning • Signal Processing • Time-Series Analysis
-</p>
-
 ---
 
 ## 🛠️ Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,ubuntu,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,ubuntu," />
 </p>
 
 ---
@@ -96,22 +86,10 @@ Currently exploring the intersection of:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=ethanngo88&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanngo88&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🏃 Beyond Engineering
 
 🏅 Marathon Runner
 
-🎯 Goal: Full Marathon Sub 4 Hours
+🎯 Acchieve: FM Sub 4 
 
 💪 Passionate about endurance sports and continuous self-improvement.
